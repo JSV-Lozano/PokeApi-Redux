@@ -1,0 +1,20 @@
+.Card {
+  width: 150px;
+  height: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 10px 20px 10px !important;
+}
+.nes-table.is-bordered {
+  margin: 0;
+}
+.btn-heart {
+  border: none;
+}
+i:active {
+  border: none;
+}
+.btn-heart:active {
+  border: none;
+}

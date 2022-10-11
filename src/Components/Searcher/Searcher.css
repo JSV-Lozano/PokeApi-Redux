@@ -1,0 +1,8 @@
+.nes-field{
+    display:flex;
+    justify-content: center;
+}
+.nes-input {
+  width: 50%;
+  margin-right: 10px;
+}
